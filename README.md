@@ -40,15 +40,14 @@ Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" title="pycharm" alt="pycharm" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" title="neo4j" alt="neo4j" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="postgresql" alt="postgresql " width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"  title="mysql" alt="mysql" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" title="Keras" alt="Keras" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" title="Matplotlib" alt="Matplotlib" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" title="numpy" alt="numpy" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" title="pandas"  alt="pandas" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" title="PyTorch"  alt="PyTorch" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit-learn" alt="scikit-learn" width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="TensorFlow" alt="TensorFlow" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="mysql" **alt="mysql" width="80" height="40"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" title="TensorFlow" alt="TensorFlow" width="80" height="40"/>&nbsp;
 </div>
 
 ---
@@ -56,5 +55,11 @@ Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lakhiwal18&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhiwal18)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
