@@ -8,9 +8,9 @@
   <a href="https://instagram.com/ig_viratsushilkumar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  
-</div id="badges"align="center">
-<img src="https://komarev.com/ghpvc/?username=lakhiwal18&style=flat-square&color=blue" alt=""/>
+<h1 align="center" >
+    <img src="https://komarev.com/ghpvc/?username=lakhiwal18&style=flat-square&color=blue" alt="" />
+</h1>
 <h1 align="center" >
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
