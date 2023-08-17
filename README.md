@@ -5,12 +5,10 @@
   <a href="www.linkedin.com/in/sushil-kumar-lakhiwal">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://instagram.com/ig_viratsushilkumar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> 
+  
 </div id="badges"align="center">
 <img src="https://komarev.com/ghpvc/?username=lakhiwal18&style=flat-square&color=blue" alt=""/>
 <h1 align="center" >
