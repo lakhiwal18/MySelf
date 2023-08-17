@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200px"/>
 </div>
 
 <div id="badges" align="center">
@@ -23,6 +23,10 @@
 </h1>
 
 ---
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/mWK6qsWFY6w5xMKG5D/giphy.gif" width="900" height="300px"/>
+</div>
+
 
 ### :man_technologist: About Me :
 Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at IIT Jodhpur 🏫, specializing in Mathematics-Data and Computational Sciences.
