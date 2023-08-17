@@ -11,7 +11,7 @@ jobs:
     runs-on: window-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lakhiwal18/MySelf/blog-post-workflow@v2.308.0
+      - uses: lakhiwal18/MySelf/blog-post-workflow@v2
         with:
           max_post_count: "4"
           feed_list: "https://github.com/lakhiwal18/MySelf"
