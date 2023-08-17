@@ -25,13 +25,13 @@
 ---
 
 ### :man_technologist: About Me :
-Hello, everyone! I am Sushil Kumar Lakhiwal from India , a passionate student 👨‍🎓 at IIT Jodhpur 🏫, specializing in Data and Computational Sciences.
+Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at IIT Jodhpur 🏫, specializing in Mathematics-Data and Computational Sciences.
 - 🏅 : My journey has been a blend of academics and sports, where I've embraced the challenges of both.
-- : : My keen interest lies in the realm of Data Science, Machine Learning, and Deep Learning,Natural Language Understanding where I've delved into building models using classification and regression algorithms, Object detection model, Chatbot etc.
+- 🎰 : My keen interest lies in the realm of Data Science, Machine Learning, and Deep Learning,Natural Language Understanding where I've delved into building models using classification and regression algorithms, Object detection model, Chatbot etc.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 👨‍🔬: I want to contribute to the data science field, whether it's contributing to cutting-edge research, driving business growth through analytics, emerging as data scientist.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sushil-kumar-lakhiwal)
 
 
 
