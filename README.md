@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sushil-kumar-lakhiwal-0aa90322b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,6 +9,7 @@
   <a href="https://instagram.com/ig_viratsushilkumar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  </div>
 <h1 align="center" >
     <img src="https://komarev.com/ghpvc/?username=lakhiwal18&style=flat-square&color=blue" alt="" />
 </h1>
@@ -29,7 +31,7 @@ Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at
 
 - 👨‍🔬: I want to contribute to the data science field, whether it's contributing to cutting-edge research, driving business growth through analytics, emerging as data scientist.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sushil-kumar-lakhiwal)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushil-kumar-lakhiwal-0aa90322b)
 
 ---
 
@@ -58,6 +60,9 @@ Hello, everyone! I am Sushil Kumar Lakhiwal, a passionate student 👨‍🎓 at
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhiwal18)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<h1 align="center">
+  <img src="https://media.giphy.com/media/Y3TBwkbO1r6iSqsngk/giphy.gif"  width="700px" height="400px"/>
+</h1>
 
 ### :writing_hand: Blog Posts :
 
