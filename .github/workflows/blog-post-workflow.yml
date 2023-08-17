@@ -8,10 +8,10 @@ on:
 jobs:
   update-readme-with-blog:
     name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
+    runs-on: window-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lakhiwal18/MySelf/blog-post-workflow@v1
+      - uses: lakhiwal18/MySelf/blog-post-workflow@v2.308.0
         with:
           max_post_count: "4"
           feed_list: "https://github.com/lakhiwal18/MySelf"
