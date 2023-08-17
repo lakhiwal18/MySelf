@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lakhiwal18/MySelf/blog-post-workflow@master
+      - uses: lakhiwal18/MySelf/blog-post-workflow@v3
         with:
           max_post_count: "4"
           feed_list: "https://github.com/lakhiwal18/MySelf"
